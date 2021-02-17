@@ -3,7 +3,7 @@
 [config]
 name = Spigot
 source = http://www.multicraft.org/download/jar/?file=spigot&version=latest&client=multicraft
-configSource = http://www.multicraft.org/download/conf/?file=spigot.jar.conf
+configSource = https://github.com/jacobmask/spigot/blob/main/conf
 category = Mods
 
 [encoding]
