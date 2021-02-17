@@ -2,7 +2,7 @@
 ## format of this file.
 [config]
 name = Spigot
-source = http://www.multicraft.org/download/jar/?file=spigot&version=latest&client=multicraft
+source = https://getbukkit.org/get/RD0y91OTotryPrElNQe4ovBLDNweoO5Z
 configSource = https://github.com/jacobmask/spigot/blob/main/conf
 category = Mods
 
