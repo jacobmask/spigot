@@ -2,7 +2,7 @@
 ## format of this file.
 [config]
 name = Spigot 1.16.5
-source = https://getbukkit.org/get/RD0y91OTotryPrElNQe4ovBLDNweoO5Z
+source = https://cdn.getbukkit.org/spigot/spigot-1.16.5.jar
 configSource = https://raw.githubusercontent.com/jacobmask/spigot/main/conf
 
 [encoding]
