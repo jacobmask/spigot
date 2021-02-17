@@ -4,7 +4,6 @@
 name = Spigot 1.16.5
 source = https://getbukkit.org/get/RD0y91OTotryPrElNQe4ovBLDNweoO5Z
 configSource = https://github.com/jacobmask/spigot/blob/main/conf
-category = Mods
 
 [encoding]
 #encode = system
