@@ -3,7 +3,7 @@
 [config]
 name = Spigot 1.16.5
 source = https://getbukkit.org/get/RD0y91OTotryPrElNQe4ovBLDNweoO5Z
-configSource = https://github.com/jacobmask/spigot/blob/main/conf
+configSource = https://raw.githubusercontent.com/jacobmask/spigot/main/conf
 
 [encoding]
 #encode = system
